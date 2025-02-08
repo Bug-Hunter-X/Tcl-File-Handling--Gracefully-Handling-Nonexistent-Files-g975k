@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Tcl file handling and its solution. The `bug.tcl` file contains code that attempts to count lines in a file without properly handling the case where the file does not exist.  The `bugSolution.tcl` file provides a corrected version that gracefully handles this scenario.
